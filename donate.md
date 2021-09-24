@@ -28,7 +28,7 @@ MakeSoil is a _powerful_ way to achieve this, but we are in need of donations to
 
 ## Donate Via Fidelity Charitable
 
-<IFrame src="/dafdirect.html" style="height: 313px; width: 300px;" />
+<IFrame src="/dafdirect.html" style="height: 313px; width: 300px;" frameborder="0" />
 
 <div style="text-align: center;">Use <a href="https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings=ODI0NzY5MTc3XzIxMTFfY2IzNWZhZmYtZjk5MC00ZTdkLTg5YzMtZDIzMjRjNGQ0ZWU0&designatedText=TWFrZVNvaWw=&amountValue=" target="_blank">DAF Direct</a> to easily donate through Fidelity Charitable.</div>
 
