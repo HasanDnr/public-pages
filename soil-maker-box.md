@@ -8,9 +8,8 @@ Building the Soil Maker Box (see picture and design further down this page) take
 
 And to get the big green trashcan lid featured in the above video, click on the Amazon link below:
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=makesoil0f-20&marketplace=amazon&amp;region=US&placement=B00BMTR14Q&asins=B00BMTR14Q&linkId=267383a5c7ea092cf498e78dbe72d402&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
-    
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=makesoil0f-20&language=en_US&marketplace=amazon&region=US&placement=B00BMTR14Q&asins=B00BMTR14Q&linkId=87be8a102e3d076cf4a11c5dced80829&show_border=true&link_opens_in_new_window=true"></iframe>
+
 # Soil Maker Box
 
 We designed our own Soil Maker Box and  made the design freely-available (see links below).
