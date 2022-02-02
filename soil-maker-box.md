@@ -6,10 +6,6 @@ Building the Soil Maker Box (see picture and design further down this page) take
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/0iw7Qjg0r6M?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-And to get the big green trashcan lid featured in the above video, click on the Amazon link below:
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=makesoil0f-20&language=en_US&marketplace=amazon&region=US&placement=B00BMTR14Q&asins=B00BMTR14Q&linkId=87be8a102e3d076cf4a11c5dced80829&show_border=true&link_opens_in_new_window=true"></iframe>
-
 # Soil Maker Box
 
 We designed our own Soil Maker Box and  made the design freely-available (see links below).
