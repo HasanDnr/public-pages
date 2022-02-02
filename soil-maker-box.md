@@ -1,8 +1,15 @@
-Building the Soil Maker Box (see picture and design below) takes a fair amount of time, skill and tools. So before you get started, watch this short video on the Soil-Making Cylinder to see if it's perhaps more suitable for you:
+# Soil Maker Cylinder
+
+Building the Soil Maker Box (see picture and design below) takes a fair amount of time, skill and tools. So before you get started, watch this short video on the Soil Maker Cylinder to see if it's perhaps more suitable for you:
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/0iw7Qjg0r6M?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+And to get the big green trashcan lid featured in the above video, click on the Amazon link below:
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.smile.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=makesoil0f-20&marketplace=amazon&amp;region=US&placement=B00BMTR14Q&asins=B00BMTR14Q&linkId=267383a5c7ea092cf498e78dbe72d402&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 # Soil Maker Box
 
