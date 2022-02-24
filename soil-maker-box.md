@@ -12,7 +12,7 @@ Building the Soil Maker Box (see picture and design further down this page) take
 
 And to get the big green trashcan lid featured in the above video, click on the Amazon link below:
 
-<a href="https://smile.amazon.com/gp/product/B00BMTR14Q/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=makesoil0f-20&creative=9325&linkCode=as2&creativeASIN=B00BMTR14Q&linkId=21bd2966b99ec59a6e54e34e04eca83f" >Green Trashcan Lid</a>
+<a href="https://smile.amazon.com/gp/product/B00BMTR14Q/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=makesoil0f-20&creative=9325&linkCode=as2&creativeASIN=B00BMTR14Q&linkId=21bd2966b99ec59a6e54e34e04eca83f" target="_blank">Green Trashcan Lid</a>
 
 # Soil Maker Box
 
