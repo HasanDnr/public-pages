@@ -6,13 +6,13 @@ Building the Soil Maker Box (see picture and design further down this page) take
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/0iw7Qjg0r6M?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div style="padding:1rem;">
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=makesoil0f-20&marketplace=amazon&amp;region=US&placement=B00BMTR14Q&asins=B00BMTR14Q&linkId=c28f003bd45cfadba4c4a5f485f92d96&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
-</div>
-
 And to get the big green trashcan lid featured in the above video, click on the Amazon link below:
 
 <a href="https://smile.amazon.com/gp/product/B00BMTR14Q/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=makesoil0f-20&creative=9325&linkCode=as2&creativeASIN=B00BMTR14Q&linkId=21bd2966b99ec59a6e54e34e04eca83f" target="_blank">Green Trashcan Lid</a>
+
+<div style="padding:1rem 0;">
+<iframe style="width:120px;height:240px;" align="left" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=makesoil0f-20&marketplace=amazon&amp;region=US&placement=B00BMTR14Q&asins=B00BMTR14Q&linkId=c28f003bd45cfadba4c4a5f485f92d96&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+</div>
 
 # Soil Maker Box
 
