@@ -122,9 +122,7 @@ Then there are 4 general principles to keep in mind when making soil:
 
 ## 1) The Carbon to Nitrogen ratio
 
-There should be 30 parts of carbon to every 1 part of nitrogen. Said another way, 3 parts ‘brown’ or ‘dry’ stuff (e.g. sawdust, dry leaves and paper) for every 1 part ‘green’ or ‘wet’ stuff (e.g. banana peels, apple cores, coffee grounds).
-
-While that may sound daunting, it will quickly become intuitive: If it’s too moist and starting to smell, you need more high-carbon materials. If it’s dry and lifeless and not turning into soil, you need more high-nitrogen materials.
+There should be approximately 3 parts ‘brown’ or ‘dry’ stuff (e.g. sawdust, dry leaves and paper) for every 1 part ‘green’ or ‘wet’ stuff (e.g. banana peels, apple cores, coffee grounds). This will quickly become intuitive: If it’s too moist and starting to smell, you need more brown/dry (high-carbon) materials. If it’s dry and lifeless and not turning into soil, you need more green/wet (high-nitrogen) materials.
 
 ## 2) Airflow
 
