@@ -8,7 +8,7 @@ Building the Soil Maker Box (see picture and design further down this page) take
 
 <div style="margin-top:2rem;display:flex;gap:1rem;">
   <div>
-<a href="https://smile.amazon.com/gp/product/B00BMTR14Q/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=makesoil0f-20&creative=9325&linkCode=as2&creativeASIN=B00BMTR14Q&linkId=21bd2966b99ec59a6e54e34e04eca83f" target="_blank"><img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Green_Lid.jpg" alt="Green Trashcan Lid" height="200px" width="200px /></a>
+<a href="https://smile.amazon.com/gp/product/B00BMTR14Q/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=makesoil0f-20&creative=9325&linkCode=as2&creativeASIN=B00BMTR14Q&linkId=21bd2966b99ec59a6e54e34e04eca83f" target="_blank"><img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Green_Lid.jpg" alt="Green Trashcan Lid" height="200px" width="200px" /></a>
   </div>
   <div>
   This is the perfect lid for the soil maker cylinder. This lid is larger than what’s available in most hardware stores and is also green. <a href="https://smile.amazon.com/gp/product/B00BMTR14Q/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=makesoil0f-20&creative=9325&linkCode=as2&creativeASIN=B00BMTR14Q&linkId=21bd2966b99ec59a6e54e34e04eca83f" target="_blank">Please use this link to purchase</a> (and choose MakeSoil as your charity of choice and Amazon will make a small donation to MakeSoil at no cost to you if you haven’t already chosen a Smile Charity).
