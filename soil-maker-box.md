@@ -6,7 +6,7 @@ Building the Soil Maker Box (see picture and design further down this page) take
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/0iw7Qjg0r6M?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div style="margin-top:2rem;display:flex;gap:1rem;">
+<div className="lid-container" style="margin-top:2rem;display:flex;gap:1rem;">
   <div>
 <a href="https://smile.amazon.com/gp/product/B00BMTR14Q/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=makesoil0f-20&creative=9325&linkCode=as2&creativeASIN=B00BMTR14Q&linkId=21bd2966b99ec59a6e54e34e04eca83f" target="_blank"><img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Green_Lid.jpg" alt="Green Trashcan Lid" height="200px" width="200px" style="max-width:none;" /></a>
   </div>
