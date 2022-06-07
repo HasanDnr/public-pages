@@ -166,7 +166,7 @@ If you have no pests, then you don’t strictly need any special equipment. You 
 
 ![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/new-bin.jpg)
 
-We have also designed our own ‘Soil Maker Box’ (the video below shows the premium version) which will cover all your bases. If you are interested in having the 'everyman' version for an affordable price, please visit our [DIY page](https://www.makesoil.org/diy/) to find out more.
+We have also designed our own ‘Soil Maker Box’ (the video below shows the premium version) which will cover all your bases. If you are interested in having the 'everyman' version, please visit our [DIY page](https://www.makesoil.org/diy) to find out more.
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/CqC-7GKg0gw?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
