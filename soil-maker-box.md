@@ -1,6 +1,10 @@
-# Soil Maker Cylinder
+# Introduction
 
-Building the Soil Maker Box (see picture and design further down this page) takes a fair amount of time, skill and tools. So before you launch into that, watch this short video on the Soil Maker Cylinder to see if it's perhaps more suitable for you:
+If you want to build something easy to get started quickly, we suggest the Soil Maker Cylinder.
+
+The Soil Maker Box, takes a fair amount of time, DIY skill and tools to build.
+
+# Soil Maker Cylinder
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/0iw7Qjg0r6M?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
