@@ -33,7 +33,3 @@ Print-at-home cards are a great way to strike up conversations and get people in
 <a href="https://drive.google.com/file/d/1baDJ7O3ui6Dt6AoKoivWm_mSZ-5dGHxo/view?usp=sharing">
 	<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-print-at-home-cards.png" alt="Print-at-Home Cards" width="400" />
 </a>
-
-## Custom Soil Site Posters
-
-Do you want a custom Soil Site Poster, complete with QR code, which people can use to learn more about your Soil Site? Go to your Soil Site ([or create one here](/create-soil-site)), click the green Invite button on the right and scroll down to the poster.
