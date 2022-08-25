@@ -10,7 +10,6 @@ MakeSoil is a _powerful_ way to achieve this, but we need your support to fulfil
 
 ## Send Us A Check
 
-<div style="text-align: center;">
 Our mailing address is:
 <div style="font-weight: bold;">
 MakeSoil<br />
@@ -19,7 +18,6 @@ MakeSoil<br />
 Tacoma, WA 98402
 <br />
 United States
-</div>
 </div>
 
 ## Donate Via Card, PayPal Or Bank Transfer
