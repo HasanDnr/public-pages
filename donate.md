@@ -2,11 +2,25 @@
 
 _MakeSoil is a 501(c)(3) Nonprofit Organization. Donations are tax-deductible for US taxpayers._
 
-Any amount is helpful. Nothing is too small, or too large.
+Our goal is to raise $10 million over the next 3 years.
 
 Now more than ever, with the disruptions challenging humanity, the world needs _healthier_ people, more _resilient_ communities, a more _local_ food system, and an economy that works in _harmony_ with nature.
 
-MakeSoil is a _powerful_ way to achieve this, but we are in need of donations to maintain our efforts. Can you help? 
+MakeSoil is a _powerful_ way to achieve this, but we need your support to fulfil our mission. Can you help? 
+
+## Send Us A Check
+
+<div style="text-align: center;">
+Our mailing address is:
+<div style="font-weight: bold;">
+MakeSoil<br />
+401 Broadway Suite 100 PMB 91115
+<br />
+Tacoma, WA 98402
+<br />
+United States
+</div>
+</div>
 
 ## Donate Via Card, PayPal Or Bank Transfer
 
@@ -31,20 +45,6 @@ MakeSoil is a _powerful_ way to achieve this, but we are in need of donations to
 <iframe src="/dafdirect.html" style="height: 313px; width: 300px;" frameborder="0" ></iframe>
 
 <div style="text-align: center;">Use <a href="https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings=ODI0NzY5MTc3XzIxMTFfY2IzNWZhZmYtZjk5MC00ZTdkLTg5YzMtZDIzMjRjNGQ0ZWU0&designatedText=TWFrZVNvaWw=&amountValue=" target="_blank">DAF Direct</a> to easily donate through Fidelity Charitable.</div>
-
-## Send Us A Check
-
-<div style="text-align: center;">
-Our mailing address is:
-<div style="font-weight: bold;">
-MakeSoil<br />
-401 Broadway Suite 100 PMB 91115
-<br />
-Tacoma, WA 98402
-<br />
-United States
-</div>
-</div>
 
 ## Any Questions?
 
