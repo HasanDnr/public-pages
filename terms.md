@@ -1,6 +1,6 @@
 # Terms of Use
 
-Last updated: September 23, 2019
+Last updated: November 4, 2022
  
 Please read these Terms of Use ("Terms", "Terms of Use") carefully before using the MakeSoil.org website (the "Service") operated by MakeSoil ("us", "we", or "our"). 
  
@@ -126,6 +126,8 @@ You agree to defend, indemnify and hold harmless MakeSoil and its licensee and l
 In no event shall MakeSoil, nor its directors, employees, contractors, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose. The above limitation of liability shall also extend to any ‘offline’ interactions that may take place between users of the Service. Such users are participating at their own risk.
  
 In no event will MakeSoil’s nor its directors, employees, contractors, partners, agents, suppliers, or affiliates, total liability to you for all damages, losses, causes of action (whether in contract, tort (including but not limited to negligence), exceed the amounts you’ve paid MakeSoil in the prior 12 months, if any. The existence of more than one claim will not enlarge this amount.
+
+"Soil Makers" - users of the Service who host and manage "soil sites" (which may be located on their property) on the MakeSoil platform - shall not be liable for any loss, damage, injury, illness or death incurred by any other users (including "Soil Supporters") participating in such soil sites. Nor shall such other users (including Soil Supporters) participating in soil sites be liable for any loss, damage, injury, illness or death incurred by any Soil Makers hosting and managing such soil sites.
  
 ## Disclaimer
 Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
