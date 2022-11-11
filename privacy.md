@@ -1,6 +1,6 @@
 # Privacy Policy
 
-MakeSoil takes your privacy and personal data seriously. This Privacy Policy provides information about how MakeSoil treats personal information regarding MakeSoil visitors and users. MakeSoil’s Privacy Policy applies across all media and social platforms, including the MakeSoil website, Facebook page and other MakeSoil social media pages and accounts.
+MakeSoil takes your privacy and personal data seriously. This Privacy Policy provides information about how MakeSoil treats personal information regarding MakeSoil visitors and users. MakeSoil’s Privacy Policy applies across all media and social platforms, including the MakeSoil website, mobile app(s), Facebook page and other MakeSoil social media pages and accounts.
  
 At MakeSoil we follow three essential principles:
 * We don't ask for any personal information unless we need it.
@@ -19,23 +19,23 @@ Like other website operators, MakeSoil may collect non-personally-identifying in
 MakeSoil collects personal information from users that voluntarily register with the service and who agree to submit such information. Users share such information in order to be able to engage in MakeSoil activities. By registering on the MakeSoil website users are consenting to collection, use and storage of personal data in accordance with this Privacy Policy.
  
 ## Gathering, Storing and Sharing Personally-Identifying Information
-MakeSoil may gather personally-identifying information to improve the functionality of the website and application. To sign up, MakeSoil may ask users to provide their name, email, home/work address and profile picture.
+MakeSoil may gather personally-identifying information to improve the functionality of the website and application. To sign up, MakeSoil may ask users to provide their name, email, phone number, social media handles, home/work address/location and profile picture.
  
-To create or host a Soil website to be listed on the MakeSoil map, MakeSoil asks its users to provide the address of the Soil website, as well as further information or instructions on how to gain access to the site, and at what times it is open.
+To create or host a soil site to be listed on the MakeSoil map, MakeSoil asks its users to provide the address/location of the soil site, as well as further information or instructions on how to gain access to the site, and at what times it is open.
  
-For public sites (with no explicit approval needed for those applying to join), any visitors searching the MakeSoil map will be able to see the site’s approximate location, as well as access instructions and opening times.
+For public sites (with no explicit approval needed for those applying to join), any visitors searching the MakeSoil map will be able to see the site’s location, as well as access information, drop-off instructions and opening times.
  
-For private sites, (where explicit approval is needed for those applying to join), any visitors searching the MakeSoil map will be able to see the approximate location of the site. However, the precise address, access instructions and opening times will only be revealed to users who have been explicitly approved by the host(s) to join that Soil website.
+For private sites, (where explicit approval is needed for those applying to join), any visitors searching the MakeSoil map will be able to see the approximate location of the site. However, the access information, drop-off instructions and opening times will only be revealed to users who have been explicitly approved by the host(s) to join that soil site.
  
-When applying to join a private site, MakeSoil asks users to provide their name, email address, profile picture and zip code, along with a personal message, to the site’s host(s), so they can review the application.
+When applying to join a private site, MakeSoil asks users to provide their name, along with a personal message, to the site’s host(s), so they can review the application.
  
 Any information we collect is for the purposes of providing secure and positive interactions between users on the MakeSoil platform. For example, email addresses are collected to provide authentication and to facilitate simple communication between our users, and between MakeSoil and its users.
  
 MakeSoil does not share the user's email address with other users and all interaction between two users is provided via MakeSoil unless the users decide otherwise.
  
-If users register or log in to their account through a third-party service such as Google or Facebook, MakeSoil will have access to some of your third-party account information from that service, such as your name and other information in that account, as authorized by that service. You have the ability to disable the connection between our platform and your third-party account at any time.
+If users register or log in to their account through a third-party service such as Google or Facebook, MakeSoil will have access to some of the users' third-party account information from that service, such as user's name and other information in that account, as authorized by that service. Users have the ability to disable the connection between our platform and their third-party account at any time.
  
-Registered users who opt-in may occasionally receive a MakeSoil newsletter, be contacted by MakeSoil to have their queries responded or to solicit user feedback. Users can unsubscribe from this service by following the instructions at the bottom of each newsletter.
+Registered users who opt-in may occasionally receive a MakeSoil newsletter email, be contacted by MakeSoil to have their queries responded or to solicit user feedback. Users can unsubscribe from MakeSoil newsletter emails by following the instructions at the bottom of each newsletter.
  
 MakeSoil does not sell any user-related information to any party. MakeSoil uses appropriate collection and storage practices to prevent its users from unauthorized access or data disclosure.
  
@@ -92,4 +92,4 @@ We reserve the right to change this policy and our Terms of Use at any time.  We
  
 If you have any queries about the MakeSoil Privacy Policy, please do not hesitate to get in touch with us through our Contact Us page.
  
-Last Updated: This Privacy Policy was last updated on September 23, 2019.
+Last updated: November 11, 2022.
