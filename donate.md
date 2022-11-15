@@ -2,12 +2,12 @@
 
 _MakeSoil is a 501(c)(3) Nonprofit Organization. Donations are tax-deductible for US taxpayers._
 
-Our goal is to raise $500,000 by the end of 2022, in order to grow to 2,000 "soil sites" in 2023.
+We are currently aiming to raise $750,000, in order to grow to 2,000 "soil sites" in 2023.
 
 This would result in the following impact:
 
 - 6,000 tons/year organic matter rescued
-- 6,000 tons/year GHGs prevented
+- 4,000 tons/year GHGs prevented
 - 300 tons/year new soil created
 - 200 new food gardens started
 - 10,000 neighbors brought together
