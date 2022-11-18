@@ -162,15 +162,11 @@ We recommend a set-up where materials can continuously be added, and where soil 
 
 This depends what pests you have to guard against.
 
-If you have no pests, then you don’t strictly need any special equipment. You could just mound up your scraps into a pile. However, you’ll need to keep your pile mounded, so you may soon find that some sort of container would be useful. With no pests, a simple contianer made from wooden pallets and some chicken wire is perfectly fine. If you have raccoons, you might need a closed container that can only be opened by a human.
+If you have no pests, then you don’t strictly need any special equipment. You could just mound up your scraps into a pile. However, you’ll need to keep your pile mounded, so you may soon find that some sort of container would be useful. With no pests, a simple container made from wooden pallets and some chicken wire is perfectly fine. If you have raccoons, you might need a closed container that can only be opened by a human.
 
-![alt text](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/new-bin.jpg)
+On our [DIY page](https://www.makesoil.org/diy), you will find some options, ranging from the quick and easy "Soil Maker Cylinder", to the more complex "Soil Maker Box" (pictured below).
 
-We have also designed our own ‘Soil Maker Box’ (the video below shows the premium version) which will cover all your bases. If you are interested in having the 'everyman' version, please visit our [DIY page](https://www.makesoil.org/diy) to find out more.
-
-<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
-<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/CqC-7GKg0gw?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+![Soil Maker Box image](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/SoilMakerBoxNC.png)
 
 # Will my pile smell bad?
 
