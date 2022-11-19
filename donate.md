@@ -34,7 +34,7 @@ _Step 3_ — Believe us, no one remembers step two! Not even us! _Please_ instal
 - Open the Amazon App and select the ≡ at the bottom right corner of the screen
 - Then scroll to the bottom and choose “Settings”
 - Scroll down and select “AmazonSmile”, then click the yellow “Turn on Amazon Smile” button. 
-- Lastly, you’ll get a confirmation screen that says “Welcome!”, scroll down to the bottom of the page and select “Choose your charity” or “Change your charity”, search for MakeSoil and click the “select” button next to our name
+- Lastly, after the confirmation screen that says “Welcome!”, scroll down to the bottom of the page, select “Choose your charity” or “Change your charity”, and search for MakeSoil. Hit “select” next to our name and you'll start helping the Planet with every purchase!
 </details>
 
 
