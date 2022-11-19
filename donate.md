@@ -7,15 +7,15 @@ MakeSoil is a 501(c)(3) Nonprofit Organization existing 100% for the public, pla
 
 
 
-## Amazon Smile  
+### Amazon Smile  
 
 Let's start with something that won't cost you a penny. Most people shop at Amazon. Well now you can ensure that a portion of every purchase supports MakeSoil's planetary regeneration (at no cost to you!). It really does add up, so if you want to do something good for the Planet, please take 2 mins to do this!
 
-- Step 1. — Set MakeSoil as your charity of choice by clicking <a href="https://smile.amazon.com/ch/82-4769177">here</a>
+_Step 1_ — Set MakeSoil as your charity of choice by clicking <a href="https://smile.amazon.com/ch/82-4769177">here</a>
 
-- Step 2. — Always remember to start your Amazon shopping from https://smile.amazon.com
+_Step 2_ — Always remember to start your Amazon shopping from https://smile.amazon.com
 
-- Step 3. — Believe us, no one remembers step two! Not even us! That’s why we ask that you install one of the browser extensions below, so you’ll never have to remember. These extensions are very unobtrusive and do not collect any of your data — they only exist for the charitable purpose of redirecting Amazon to Amazon Smile so you don’t have to.
+_Step 3_ — Believe us, no one remembers step two! Not even us! That’s why we ask that you install one of the browser extensions below, so you’ll never have to remember. These extensions are very unobtrusive and do not collect any of your data — they only exist for the charitable purpose of redirecting Amazon to Amazon Smile so you don’t have to.
 
 **Chrome (Desktop / Laptop)**
 - View the “Smile Always” plugin from the <a href="https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf">Chrome Web Store</a>
@@ -38,9 +38,9 @@ Let's start with something that won't cost you a penny. Most people shop at Amaz
 </details>
 
 
-## Mail a Check
+### Mail a Check
 
-Our mailing address is:
+Paper checks. Remember these? They work well for us too! Our mailing address is:
 <div style="font-weight: bold;">
 MakeSoil<br />
 401 Broadway Suite 100 PMB 91115
@@ -50,14 +50,14 @@ Tacoma, WA 98402
 United States
 </div>
 
-## Donate Via Card, PayPal Or Bank Transfer
+### Credit Card, PayPal, Or Bank Transfer
 
 <div style="text-align: center;margin-top: 2rem;">
   <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/makesoil" height="800px" width="100%" style="max-width:425px;" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
   <br />
 </div>
 
-## Crypto
+### Crypto
 
 <div>
   <a class="donate-with-crypto"
@@ -68,12 +68,12 @@ United States
   </script>
 </div>
 
-## Donor Advised Funds
+### Donor Advised Funds
 
 <iframe src="/dafdirect.html" style="height: 313px; width: 300px;" frameborder="0" ></iframe>
 
 <div style="text-align: center;">Use <a href="https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings=ODI0NzY5MTc3XzIxMTFfY2IzNWZhZmYtZjk5MC00ZTdkLTg5YzMtZDIzMjRjNGQ0ZWU0&designatedText=TWFrZVNvaWw=&amountValue=" target="_blank">DAF Direct</a> to easily donate through Fidelity Charitable.</div>
 
-## Bank Wire
+### Bank Wire
 
 For bank wire information please [Contact us](/contact-us) 
