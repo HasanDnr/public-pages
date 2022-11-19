@@ -28,7 +28,7 @@ In most cases you can store them in any container right on your counter-top. In 
 
 There are many different ways to make soil. However, we consider the thermophilic, microbial soil-making process - commonly referred to as ‘hot’ composting - to be the most versatile and robust. In this process, the Soil Site could ideally reach temperatures of around 130°F (54°C), supporting many different microbes as they voraciously chew and digest the materials in a Soil Site, which is what ultimately turns those materials into what we recognize as soil.
 
-This ‘hot’ process is able to handle most typical household waste, as well as a diversity of inputs from neighbors and the surrounding community e.g. coffee shops, restaurants, workplaces etc.
+This ‘hot’ process is able to handle most typical household waste, as well as a diversity of inputs from neighbors and the surrounding community e.g. coffee shops, restaurants, workplaces etc. Depending on the the inputs and the process used, the process will take anywhere from a few weeks to a few months.
 
 Then there are 4 general principles to keep in mind when making soil:
 
@@ -54,25 +54,19 @@ If the pile remains too dry, either add more moist, high-nitrogen scraps (e.g. c
 
 One last point to consider is that you can’t make soil in a coffee cup! For a hot process, there needs to be a sufficient thermal mass - ensure your pile is at least a few feet in diameter.
 
-# What materials CAN I make soil out of?
+# What materials can I make soil out of?
 
 Essentially, you can make soil out of almost anything except metal, plastic or glass. However, different Soil Makers will likely have personal preferences and may not accept certain materials.
 
-# Why do some Soil Makers NOT accept certain compostable materials?
+# Why do some Soil Makers not want certain compostable materials?
 
-Some Soil Makers don’t accept meat, grease, dairy, bones, cooked food, bread, pasta etc. With a high level of skill you can make soil out of any of these materials without any problems. However, it requires a Soil Maker who can achieve high temperatures with their pile, or else these materials may smell unpleasant or attract pests.
+Some Soil Makers don’t accept meat, grease, dairy, bones, cooked food, bread, pasta etc. — even though, with a high level of skill, you can make soil out of anything. But this requires having a pest proof container, and achieving high temperatures via the thermophilic (hot) method.
 
-Some Soil Makers don’t accept citrus, onions or garlic. This is only a problem if they are using worms to digest the materials in their pile instead of a thermophilic (hot) process.
+Some Soil Makers don’t accept citrus, onions or garlic. This is only a problem if they are using worms to digest the materials in their pile instead of a thermophilic process.
 
-Many Soil Makers don’t accept glossy paper e.g. junk mail because they take a long time to break down and may contain metals or chemicals used in printing or laminating. For similar reasons, many Soil Makers don’t accept non-organic (conventionally grown) food-waste or commercial cigarette butts.
+Many Soil Makers don’t accept glossy paper e.g. junk mail because they take a long time to break down and may contain metals or chemicals used in printing or laminating. For similar reasons, many Soil Makers don’t accept non-organic (conventionally grown) food-waste, due to contamination with glyphosate (Round-up).
 
 Many Soil Makers don’t accept human waste or pet waste, because they may contain parasites or diseases that cannot be reliably avoided except with the highest level of soil-making skill.
-
-# How long will it take to make soil?
-
-It will probably take at least 8 weeks before you have harvested your first batch of soil, although it’s possible you could do it in as little as 5 weeks.
-
-We recommend a set-up where materials can continuously be added, and where soil can continuously be harvested from the bottom of the bin - such as the Soil Maker Box that we deisgned ourselves.
 
 # Do I need any special equipment to make soil?
 
@@ -94,9 +88,7 @@ Only if something is wrong. Maybe there’s too much nitrogen, not enough airflo
 
 # Will my pile attract pests e.g. rats?
 
-Possibly. Especially if your pile is not getting hot enough. When it’s hot, the materials are turning into soil too fast to attract pests, who will find it too uncomfortable to dig around in there anyway.
-
-You can also protect against pests by burying your freshest scraps in the middle of your pile, covering your pile with a ‘carbon seal’ (e.g. soil and dry leaves), and making your container secure.
+This will be minimal if you use a pest-proof bin and also get the pile hot enough. You can also avoid attracting pests by burying your freshest scraps in the middle of your pile, covering your pile with a ‘carbon seal’ (e.g. soil and dry leaves), and making your container secure.
 
 # How can I get more materials being contributed to my pile?
 
@@ -108,13 +100,6 @@ You can share a direct link to your soil site to your social media, neighborhood
 Full sun can help the pile warm up in wintery places that get down to freezing. Otherwise full sun may dry out the pile and shorten the life of the Soil Maker Box.
 
 In general, the Soil Maker Box should be in a pleasing spot that entices people to use it, whether sunny or in partial shade.
-
-# Should the Soil Maker Box sit on organic material or have a concrete base? Would a bed of crushed shell work?
-
-It can be good to have the contents of the Soil Maker Box in touch with the ground. However, to extend the life of the wood, it’s also good to prevent any of the wood from sitting directly on the ground.
-
-Crushed shells, brick, or gravel under the wooden boards that may make up a wooden bin’s base would be ideal, with bare ground in the middle so the bin’s contents can touch the earth.
-
 
 # What should I do with my finished soil?
 
