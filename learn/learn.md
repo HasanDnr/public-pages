@@ -1,14 +1,10 @@
 # What is MakeSoil?
 
-<div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;margin-bottom:2rem;">
-<iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/1JJnRGuUxXM?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-MakeSoil matches ‘Soil Makers’ (people who compost) with nearby ‘Soil Supporters’ (people who contribute scraps). By doing this at scale, worldwide, we are creating a distributed network for organics recycling. This prevents green-house gas emissions, captures carbon, puts nutrients back into the local food system, and at a far lower cost than traditional curbside pick-up programs. On top of that, "making soil" is incredibly simple yet powerfully humanizing and unifying act, helping to not just repair the Earth's Biosphere, but also to repair the rampant social division facing human civilization today.
-
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/k0x8JDKns5c?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+MakeSoil matches ‘Soil Makers’ (people who compost) with nearby ‘Soil Supporters’ (people who contribute scraps). By doing this at scale, worldwide, we are creating a distributed network for organics recycling. This prevents green-house gas emissions, captures carbon, puts nutrients back into the local food system, and at a far lower cost than traditional curbside pick-up programs. On top of that, "making soil" is incredibly simple yet powerfully humanizing and unifying act, helping to not just repair the Earth's Biosphere, but also to repair the rampant social division facing human civilization today.
 
 # What is a Soil Site?
 
