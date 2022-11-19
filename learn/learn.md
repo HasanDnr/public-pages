@@ -1,4 +1,4 @@
-# What is MakeSoil?
+# Why MakeSoil?
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/k0x8JDKns5c?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -12,7 +12,7 @@ A Soil Site is a place where people come together to turn their food scraps into
 
 MakeSoil then works to match nearby neighbors to those soil sites, making it safe and easy for all to participate. Once neighbors join and begin bringing their scraps, we call them a soil supporter.
 
-# How should I store my food scraps before taking them to a Soil Site?
+# How should I store my food scraps?
 
 In most cases you can store them in any container right on your counter-top. In that case it's best to not seal the container but to cover it with cloth or otherwise maintain some airflow. You can always keep your container in the refrigerator for many days, or indefinitely in the freezer, until you're ready to visit your Soil Site.
 
@@ -20,7 +20,7 @@ In most cases you can store them in any container right on your counter-top. In 
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/5BpgQdydBhY?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-# How do I make soil?
+# I want to be a Soil Maker. How do I make soil?
 
 There are many different ways to make soil. However, we consider the thermophilic, microbial soil-making process - commonly referred to as ‘hot’ composting - to be the most versatile and robust. In this process, the Soil Site could ideally reach temperatures of around 130°F (54°C), supporting many different microbes as they voraciously chew and digest the materials in a Soil Site, which is what ultimately turns those materials into what we recognize as soil.
 
@@ -52,11 +52,9 @@ One last point to consider is that you can’t make soil in a coffee cup! For a 
 
 # What materials can I make soil out of?
 
-Essentially, you can make soil out of almost anything except metal, plastic or glass. However, different Soil Makers will likely have personal preferences and may not accept certain materials.
+Making soil is a recipe. And essentially, you can make soil out of almost anything that was once alive (think, almost anything other than plastic, metal, and glass). For example, one simple recipe might be leftover food scraps and leaves from a tree.
 
-# Why do some Soil Makers not want certain compostable materials?
-
-Some Soil Makers don’t accept meat, grease, dairy, bones, cooked food, bread, pasta etc. — even though, with a high level of skill, you can make soil out of anything. But this requires having a pest proof container, and achieving high temperatures via the thermophilic (hot) method.
+Still, different Soil Makers will likely have personal preferences and may not accept certain materials. Many Soil Makers don’t accept meat, grease, dairy, bones. And some won't accept cooked food, bread, pasta etc. — even though, with a high level of skill, you can make soil out even out of these; but it will require a pest proof container and achieving high temperatures via the thermophilic (hot) method.
 
 Some Soil Makers don’t accept citrus, onions or garlic. This is only a problem if they are using worms to digest the materials in their pile instead of a thermophilic process.
 
