@@ -1,8 +1,8 @@
 
 
-MakeSoil is scaling the incredibly simple but effective act of making soil together, worldwide. Because it is so actionable and able to be implemented by just about anyone, anwhere, it stands to become one of the most effective social and environmental initiatives of the decade. But we need your help.
+MakeSoil is scaling the incredibly simple but effective act of making soil together, worldwide. But we need your help.
 
-MakeSoil is a 501(c)(3) Nonprofit Organization existing 100% for the public, planetary good. It can never be acquried by a for-profit corporation and has no stock to trade or shares to raid. Accordingly, we depend on charitable, philanthropic donations from people like you to grow this planet-repairing movement.
+We are a 501(c)(3) Nonprofit that exists 100% for the public, planetary good. MakeSoil can never be acquried by a for-profit corporation and has no stock to trade or shares to raid. Accordingly, we depend on charitable, philanthropic donations from people like you to grow this planet-repairing movement.
 
 
 
@@ -15,7 +15,7 @@ _Step 1_ — Set MakeSoil as your charity of choice by clicking <a href="https:/
 
 _Step 2_ — Always remember to start your Amazon shopping from https://smile.amazon.com
 
-_Step 3_ — Believe us, no one remembers step two! Not even us! That’s why we ask that you install one of the browser extensions below, so you’ll never have to remember. These extensions are very unobtrusive and do not collect any of your data — they only exist for the charitable purpose of redirecting Amazon to Amazon Smile so you don’t have to.
+_Step 3_ — Believe us, no one remembers step two! Not even us! _Please_ install one of the browser extensions below so you won't have to remember. These extensions do **not** collect any of your data — they just redirect Amazon to Amazon Smile and _will not_ alter your shopping experience.
 
 **Chrome (Desktop / Laptop)**
 - View the “Smile Always” plugin from the <a href="https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf">Chrome Web Store</a>
@@ -40,15 +40,12 @@ _Step 3_ — Believe us, no one remembers step two! Not even us! That’s why we
 
 ### Mail a Check
 
-Paper checks. Remember these? They work well for us too! Our mailing address is:
-<div style="font-weight: bold;">
-MakeSoil<br />
-401 Broadway Suite 100 PMB 91115
-<br />
-Tacoma, WA 98402
-<br />
+Paper checks, remember those? They work well for us too! Please drop one in the mail:
+
+**MakeSoil**  
+401 Broadway Suite 100 PMB 91115  
+Tacoma, WA 98402  
 United States
-</div>
 
 ### Credit Card, PayPal, Or Bank Transfer
 
@@ -72,7 +69,7 @@ United States
 
 <iframe src="/dafdirect.html" style="height: 313px; width: 300px;" frameborder="0" ></iframe>
 
-<div style="text-align: center;">Use <a href="https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings=ODI0NzY5MTc3XzIxMTFfY2IzNWZhZmYtZjk5MC00ZTdkLTg5YzMtZDIzMjRjNGQ0ZWU0&designatedText=TWFrZVNvaWw=&amountValue=" target="_blank">DAF Direct</a> to easily donate through Fidelity Charitable.</div>
+<div style="text-align: center;">Use <a href="https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings=ODI0NzY5MTc3XzIxMTFfY2IzNWZhZmYtZjk5MC00ZTdkLTg5YzMtZDIzMjRjNGQ0ZWU0&designatedText=TWFrZVNvaWw=&amountValue=" target="_blank">DAF Direct</a> to easily donate to MakeSoil through Fidelity Charitable, Schwab Charitable, and BNY Mellon.</div>
 
 ### Bank Wire
 
