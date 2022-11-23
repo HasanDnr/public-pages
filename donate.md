@@ -112,7 +112,7 @@ United States
 <details>
 <summary>Bank Wire</summary>
 
-For bank wire information please [Contact us](/contact-us) 
+For bank wire information please <a href="https://www.makesoil.org/contact-us"> Contact Us.</a>
 
 
 </details>
