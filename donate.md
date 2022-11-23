@@ -1,36 +1,19 @@
-
-
-MakeSoil is scaling the incredibly simple but effective act of making soil together, worldwide. But we need your help.
-
-We are a 501(c)(3) Nonprofit that exists 100% for the public, planetary good. MakeSoil can never be acquried by a for-profit corporation and has no stock to trade or shares to raid. Accordingly, we depend on charitable, philanthropic donations from people like you to grow this planet-repairing movement.
+MakeSoil is a 501(c)(3) Nonprofit that exists 100% for the public, planetary good. MakeSoil can never be acquried by a for-profit corporation and has no stock to trade or shares to raid. Accordingly, we depend on charitable, philanthropic donations from people like you to grow this planet-repairing, people-unifying movement.
 
 
 
 
-### Amazon Smile  
+### Have Amazon Donate on Your Behalf  
 
-Let's start with something that won't cost you a penny. Most people shop at Amazon. Well now you can ensure that a portion of every purchase supports MakeSoil's planetary regeneration (at no cost to you!). It really does add up, so if you want to do something good for the Planet, please take 2 mins to do this!
+When you shop at Amazon, you can direct a portion of ***Amazon's profits*** to supporting MakeSoil — _at absolutely no cost to you_. It really adds up, so if you want to do something good for the Planet, please take 2 mins to do this now!
 
-_Step 1_ — Set MakeSoil as your charity of choice by clicking <a href="https://smile.amazon.com/ch/82-4769177">here</a>
+Note: you'll need to configure your computer's web browser and the Amazon App if you shop using both.
 
-_Step 2_ — Always remember to start your Amazon shopping from https://smile.amazon.com
+<details>
+<summary>Amazon App (iPhone/Android)</summary>
 
-_Step 3_ — Believe us, no one remembers step two! Not even us! _Please_ install one of the browser extensions below so you won't have to remember. These extensions do **not** collect any of your data — they just redirect Amazon to Amazon Smile and _will not_ alter your shopping experience.
+<br>
 
-**Chrome (Desktop / Laptop)**
-- View the “Smile Always” plugin from the <a href="https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf">Chrome Web Store</a>
-- Click the blue button that says “Add to Chrome”
-- You’ll get a pop up window confirming, Add “Smile Always”?
-- Click “Add extension” and you’ll get a confirmation pop up that says “Smile Always has been added to Chrome”
-
-**Safari (Desktop / Laptop)**
-- View the “SmileAllDay” extension in the <a href="https://apps.apple.com/us/app/smileallday/id1180442868">App Store</a>
-- Click the blue “Get” button for the “Smile All Day” extension
-- Then click the green “Install” button
-- Next, click the blue “Open” button
-- Choose “Show extensions” and click the checkbox next to “SmileAllDay” to activate the extension
-
-**Amazon App (iPhone/Android)**
 - Open the Amazon App and select the ≡ at the bottom right corner of the screen
 - Then scroll to the bottom and choose “Settings”
 - Scroll down and select “AmazonSmile”, then click the yellow “Turn on Amazon Smile” button. 
@@ -38,23 +21,63 @@ _Step 3_ — Believe us, no one remembers step two! Not even us! _Please_ instal
 </details>
 
 
-### Mail a Check
+<details>
+<summary>Desktop / Laptop</summary>
+<br>
+
+First set MakeSoil as your charity of choice by clicking <a href="https://smile.amazon.com/ch/82-4769177">here.</a> Then install one of the un-obtrusive browser extensions below. These extensions do **not** collect any of your data — they only redirect Amazon to Amazon's <em>Smile</em> program so you don't have to remember to, which does _not_ alter your Amazon shopping experience in any way.
+
+<blockquote>
+<details>
+<summary>Chrome</summary>
+
+- View the _Smile Always_ plugin from the <a href="https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf">Chrome Web Store</a>
+- Click the blue button that says “Add to Chrome”
+- You’ll get a pop up window confirming, Add “Smile Always”?
+- Click “Add extension” and you’ll get a confirmation pop up that says “Smile Always has been added to Chrome”
+</details>
+</blockquote>
+
+<blockquote>
+<details>
+<summary>Safari</summary>
+
+- View the _SmileAllDay_ extension in the <a href="https://apps.apple.com/us/app/smileallday/id1180442868">App Store</a>
+- Click the blue “Get” button for the “Smile All Day” extension
+- Then click the green “Install” button
+- Next, click the blue “Open” button
+- Choose “Show extensions” and click the checkbox next to “SmileAllDay” to activate the extension
+
+</details>
+</blockquote>
+</details>
+
+### Donate Directly
+
+<details>
+<summary>Mail a Check</summary>
 
 Paper checks, remember those? They work well for us too! Please drop one in the mail:
 
-**MakeSoil**  
-401 Broadway Suite 100 PMB 91115  
-Tacoma, WA 98402  
-United States
+    **MakeSoil**  
+    401 Broadway Suite 100 PMB 91115  
+    Tacoma, WA 98402  
+    United States
+</details>
 
-### Credit Card, PayPal, Or Bank Transfer
+
+<details>
+<summary>Credit Card, PayPal, Or Bank Transfer</summary>
 
 <div style="text-align: center;margin-top: 2rem;">
   <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/makesoil" height="800px" width="100%" style="max-width:425px;" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
   <br />
 </div>
+</details>
 
-### Crypto
+
+<details>
+<summary>Crypto</summary>
 
 <div>
   <a class="donate-with-crypto"
@@ -64,13 +87,19 @@ United States
   <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
   </script>
 </div>
+</details>
 
-### Donor Advised Funds
+
+<details>
+<summary>Donor Advised Funds</summary>
 
 <iframe src="/dafdirect.html" style="height: 313px; width: 300px;" frameborder="0" ></iframe>
 
 <div style="text-align: center;">Use <a href="https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings=ODI0NzY5MTc3XzIxMTFfY2IzNWZhZmYtZjk5MC00ZTdkLTg5YzMtZDIzMjRjNGQ0ZWU0&designatedText=TWFrZVNvaWw=&amountValue=" target="_blank">DAF Direct</a> to easily donate to MakeSoil through Fidelity Charitable, Schwab Charitable, and BNY Mellon.</div>
+</details>
 
-### Bank Wire
+<details>
+<summary>Bank Wire</summary>
 
 For bank wire information please [Contact us](/contact-us) 
+</details>
