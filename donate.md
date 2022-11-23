@@ -60,10 +60,12 @@ Then install one of the un-obtrusive browser extensions below. These extensions 
 Paper checks, remember those? They work well for us too! Please drop one in the mail:
 
 <blockquote>
+
 MakeSoil
 401 Broadway Suite 100 PMB 91115  
 Tacoma, WA 98402  
 United States
+
 </blockquote>
 
 </details>
@@ -82,6 +84,7 @@ United States
 <details>
 <summary>Crypto</summary>
 
+<blockquote>
 <div>
   <a class="donate-with-crypto"
      href="https://commerce.coinbase.com/checkout/baf9ce19-918b-4b47-ae0d-aec51091d202" target="_blank">
@@ -90,6 +93,7 @@ United States
   <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
   </script>
 </div>
+</blockquote>
 </details>
 
 
@@ -103,6 +107,7 @@ United States
 
 <details>
 <summary>Bank Wire</summary>
-
+<blockquote>
 For bank wire information please [Contact us](/contact-us) 
+</blockquote>
 </details>
