@@ -103,6 +103,7 @@ United States
 <iframe src="/dafdirect.html" style="height: 313px; width: 300px;" frameborder="0" ></iframe>
 
 <div style="text-align: center;">Use <a href="https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings=ODI0NzY5MTc3XzIxMTFfY2IzNWZhZmYtZjk5MC00ZTdkLTg5YzMtZDIzMjRjNGQ0ZWU0&designatedText=TWFrZVNvaWw=&amountValue=" target="_blank">DAF Direct</a> to easily donate to MakeSoil through Fidelity Charitable, Schwab Charitable, and BNY Mellon.</div>
+<br>
 </details>
 
 <details>
