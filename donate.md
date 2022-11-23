@@ -4,7 +4,7 @@ MakeSoil is a 501(c)(3) Nonprofit that exists 100% for the public, planetary goo
 
 
 ### Have Amazon Donate on Your Behalf
-When you shop at Amazon, you can direct a portion of ***Amazon's profits*** to supporting MakeSoil — _at absolutely no cost to you_. It really adds up, so if you want to do something good for the Planet, please take 2 mins to do this now!
+When you shop at Amazon, you can direct a portion of **Amazon's profits** to supporting MakeSoil — at absolutely _no cost to you_. It really adds up, so if you want to help the Planet with every purchase, please take 2 mins to do this now!
 
 Note: you'll need to configure your computer's web browser and the Amazon App if you shop using both.
 
@@ -16,9 +16,9 @@ Note: you'll need to configure your computer's web browser and the Amazon App if
 - Open the Amazon App and select the ≡ at the bottom right corner of the screen
 - Then scroll to the bottom and choose “Settings”
 - Scroll down and select “AmazonSmile”, then click the yellow “Turn on Amazon Smile” button. 
-- Lastly, after the confirmation screen that says “Welcome!”, scroll down to the bottom of the page, select “Choose your charity” or “Change your charity”, and search for MakeSoil. Hit “select” next to our name and you'll start helping the Planet with every purchase!
+- Lastly, after the confirmation screen that says “Welcome!”, scroll down to the bottom of the page, select “Choose your charity” or “Change your charity”, and search for MakeSoil. Hit “select” next to our name.
+<br>
 </details>
-
 
 <details>
 <summary>Desktop / Laptop</summary>
@@ -49,6 +49,7 @@ First set MakeSoil as your charity of choice by clicking <a href="https://smile.
 
 </details>
 </blockquote>
+<br>
 </details>
 
 ### Donate Directly
