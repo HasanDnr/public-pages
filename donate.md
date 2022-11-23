@@ -21,7 +21,8 @@ Note: you'll need to configure your computer's web browser and the Amazon App if
 <details>
 <summary>Web Browser (Desktop / Laptop)</summary>
 
-- First set MakeSoil as your charity of choice by clicking <a href="https://smile.amazon.com/ch/82-4769177">here.</a> Then install one of the un-obtrusive browser extensions below. These extensions do **not** collect any of your data — they only redirect Amazon to Amazon's <em>Smile</em> program so you don't have to remember to, which does _not_ alter your Amazon shopping experience in any way.
+<blockquote>
+First set MakeSoil as your charity of choice by clicking <a href="https://smile.amazon.com/ch/82-4769177">here.</a> Then install one of the un-obtrusive browser extensions below. These extensions do **not** collect any of your data — they only redirect Amazon to Amazon's <em>Smile</em> program so you don't have to remember to, which does _not_ alter your Amazon shopping experience in any way.
 
 <blockquote>
 <details>
@@ -45,6 +46,7 @@ Note: you'll need to configure your computer's web browser and the Amazon App if
 - Choose “Show extensions” and click the checkbox next to “SmileAllDay” to activate the extension
 
 </details>
+</blockquote>
 </blockquote>
 </details>
 
