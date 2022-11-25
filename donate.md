@@ -9,37 +9,33 @@ When you shop at Amazon, you can direct a portion of **Amazon's profits** to sup
 Note: you'll need to configure your computer's web browser and the Amazon App if you shop using both.
 
 <details>
-<summary>Amazon App (iPhone/Android)</summary>
+<summary><h4>Amazon App (iPhone/Android)</h4></summary>
 
 - Open the Amazon App and select the ≡ at the bottom right corner of the screen
 - Then scroll to the bottom and choose “Settings”
 - Scroll down and select “AmazonSmile”, then click the yellow “Turn on Amazon Smile” button. 
 - Lastly, after the confirmation screen that says “Welcome!”, scroll down to the bottom of the page, select “Choose your charity” or “Change your charity”, and search for MakeSoil. Hit “select” next to our name.
-<br>
+
 </details>
 
 <details>
-<summary>Web Browser (Desktop / Laptop)</summary>
+<summary><h4>Web Browser (Desktop / Laptop)</h4></summary>
 
-<blockquote>
 First set MakeSoil as your charity of choice by clicking <a href="https://smile.amazon.com/ch/82-4769177">here.</a> 
 
 Then install one of the un-obtrusive browser extensions below. These extensions do **not** collect any of your data — they only redirect Amazon to Amazon's <em>Smile</em> program so you don't have to remember to, which does _not_ alter your Amazon shopping experience in any way.
 
-<blockquote>
 <details>
-<summary>Chrome</summary>
+<summary><h5>Chrome</h5></summary>
 
 - View the _Smile Always_ plugin from the <a href="https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf">Chrome Web Store</a>
 - Click the blue button that says “Add to Chrome”
 - You’ll get a pop up window confirming, Add “Smile Always”?
 - Click “Add extension” and you’ll get a confirmation pop up that says “Smile Always has been added to Chrome”
 </details>
-</blockquote>
 
-<blockquote>
 <details>
-<summary>Safari</summary>
+<summary><h5>Safari</h5></summary>
 
 - View the _SmileAllDay_ extension in the <a href="https://apps.apple.com/us/app/smileallday/id1180442868">App Store</a>
 - Click the blue “Get” button for the “Smile All Day” extension
@@ -48,8 +44,6 @@ Then install one of the un-obtrusive browser extensions below. These extensions 
 - Choose “Show extensions” and click the checkbox next to “SmileAllDay” to activate the extension
 
 </details>
-</blockquote>
-</blockquote>
 </details>
 
 ### Donate Directly
