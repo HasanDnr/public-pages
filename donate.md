@@ -1,3 +1,4 @@
+
 MakeSoil is a 501(c)(3) Nonprofit that exists 100% for the public, planetary good. MakeSoil can never be acquried by a for-profit corporation and has no stock to trade or shares to raid. Accordingly, we depend on charitable, philanthropic donations from people like you to grow this planet-repairing, people-unifying movement.
 
 
@@ -9,7 +10,7 @@ When you shop at Amazon, you can direct a portion of **Amazon's profits** to sup
 Note: you'll need to configure your computer's web browser and the Amazon App if you shop using both.
 
 <details>
-<summary><h4>Amazon App (iPhone/Android)</h4></summary>
+<summary>Amazon App (iPhone/Android)</summary>
 
 - Open the Amazon App and select the ≡ at the bottom right corner of the screen
 - Then scroll to the bottom and choose “Settings”
@@ -19,14 +20,14 @@ Note: you'll need to configure your computer's web browser and the Amazon App if
 </details>
 
 <details>
-<summary><h4>Web Browser (Desktop / Laptop)</h4></summary>
+<summary>Web Browser (Desktop / Laptop)</summary>
 
-First set MakeSoil as your charity of choice by clicking <a href="https://smile.amazon.com/ch/82-4769177">here.</a> 
+- First set MakeSoil as your charity of choice by clicking <a href="https://smile.amazon.com/ch/82-4769177">here.</a> 
 
-Then install one of the un-obtrusive browser extensions below. These extensions do **not** collect any of your data — they only redirect Amazon to Amazon's <em>Smile</em> program so you don't have to remember to, which does _not_ alter your Amazon shopping experience in any way.
+- Then install one of the un-obtrusive browser extensions below. These extensions do **not** collect any of your data — they only redirect Amazon to Amazon's <em>Smile</em> program so you don't have to remember to, which does _not_ alter your Amazon shopping experience in any way.
 
 <details>
-<summary><h5>Chrome</h5></summary>
+<summary><em>Chrome</em></summary>
 
 - View the _Smile Always_ plugin from the <a href="https://chrome.google.com/webstore/detail/smile-always/jgpmhnmjbhgkhpbgelalfpplebgfjmbf">Chrome Web Store</a>
 - Click the blue button that says “Add to Chrome”
@@ -35,7 +36,7 @@ Then install one of the un-obtrusive browser extensions below. These extensions 
 </details>
 
 <details>
-<summary><h5>Safari</h5></summary>
+<summary><em>Safari</em></summary>
 
 - View the _SmileAllDay_ extension in the <a href="https://apps.apple.com/us/app/smileallday/id1180442868">App Store</a>
 - Click the blue “Get” button for the “Smile All Day” extension
