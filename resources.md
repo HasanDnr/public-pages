@@ -7,14 +7,16 @@ Print this and hand out to neighbors and friends. And share on social media!
 
 <a href="https://drive.google.com/file/d/1njVKDmsHIMTa25SXKWNccuZXxXXF38BJ/view?usp=sharing">
 	<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-flyer-v1.png" alt="Make Soil With Me Flyer" width="400" />
+	</a>
 
 ## Coffee Grounds Poster
 
 Does your local coffee store offer used coffee grounds to customers who compost?
 Then put this on the store's community notice board.
 
-<a href="https://drive.google.com/file/d/16f2FGrwdYOTyi59zMc8fYZmNGopZbr26/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1zJ6umLwnCnrnt_jffpnodx8EcpR9zYEa/view?usp=sharing">
 	<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/coffee.png" alt="Coffee Grounds Poster" width="400" />
+	</a>
 
 ## Cards
 
@@ -22,6 +24,7 @@ Use cards to strike up conversations and get people interested in MakeSoil.
 
 <a href="https://drive.google.com/file/d/1baDJ7O3ui6Dt6AoKoivWm_mSZ-5dGHxo/view?usp=sharing">
 	<img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-print-at-home-cards.png" alt="Print-at-Home Cards" width="400" />
+	</a>
 
 ## Tear-Off Posters
 
