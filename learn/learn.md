@@ -86,8 +86,9 @@ This will be minimal if you use a pest-proof bin and also get the pile hot enoug
 
 # How can I get more materials being contributed to my pile?
 
-You can share a direct link to your soil site to your social media, neighborhood email or WhatsApp groups. Each soil site also has a printable poster with a QR code, as well as other sharing features.
+You can share a direct link to your soil site on your social media e.g. neighborhood Facebook, Nextdoor, WhatsApp groups etc. Each soil site also has a printable poster with a QR code, that you can post up, or distribute as flyers, as well as other sharing features.
 
+You can also take the initiative to, for example, ask your local coffee store to give you their used coffee grounds. Many stores will happily do so!
 
 # Should the pile get lots of sun?
 
