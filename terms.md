@@ -1,6 +1,4 @@
 # Terms of Use
-
-Last updated: November 4, 2022
  
 Please read these Terms of Use ("Terms", "Terms of Use") carefully before using the MakeSoil.org website (the "Service") operated by MakeSoil ("us", "we", or "our"). 
  
@@ -162,3 +160,5 @@ By continuing to access or use our Service after any revisions become effective,
 
 ## Contact Us
 If you have any questions about these Terms, please contact us.
+
+Last updated: November 4, 2022
