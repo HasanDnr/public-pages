@@ -21,13 +21,13 @@ MakeSoil collects personal information from users that voluntarily register with
 ## Gathering, Storing and Sharing Personally-Identifying Information
 MakeSoil may gather personally-identifying information to improve the functionality of the website and application. To sign up, MakeSoil may ask users to provide their name, email, phone number, social media handles, home/work address/location and profile picture.
  
-To create or host a soil site to be listed on the MakeSoil map, MakeSoil asks its users to provide the address/location of the soil site, as well as further information or instructions on how to gain access to the site, and at what times it is open.
+To create or host a soil site to be registered on MakeSoil, MakeSoil asks its users to provide the address/location of the soil site, as well as further information or instructions on how to gain access to the site, and at what times it is open.
  
-For public sites (with no explicit approval needed for those applying to join), any visitors searching the MakeSoil map will be able to see the site’s location, as well as access information, drop-off instructions and opening times.
+For sites where no explicit approval is needed for those wanting to join, any visitors searching the MakeSoil map will be able to see the site’s exact location (unless the site admin has opted for the location to be obfuscated), as well as access information, drop-off instructions and opening times.
  
-For private sites, (where explicit approval is needed for those applying to join), any visitors searching the MakeSoil map will be able to see the approximate location of the site. However, the access information, drop-off instructions and opening times will only be revealed to users who have been explicitly approved by the host(s) to join that soil site.
+For sites where explicit approval is needed for those applying to join, any visitors searching the MakeSoil map will be able to see the site’s exact location (unless the site admin has opted for the location to be obfuscated). However, the access information, drop-off instructions and opening times will only be revealed to users who have been explicitly approved by the host(s) to join that soil site.
  
-When applying to join a private site, MakeSoil asks users to provide their name, along with a personal message, to the site’s host(s), so they can review the application.
+When applying to join a site which requires approval, MakeSoil asks users to provide their name, along with a personal message, to the site’s host(s), so they can review the application.
  
 Any information we collect is for the purposes of providing secure and positive interactions between users on the MakeSoil platform. For example, email addresses are collected to provide authentication and to facilitate simple communication between our users, and between MakeSoil and its users.
  
@@ -92,4 +92,4 @@ We reserve the right to change this policy and our Terms of Use at any time.  We
  
 If you have any queries about the MakeSoil Privacy Policy, please do not hesitate to get in touch with us through our Contact Us page.
  
-Last updated: November 11, 2022.
+Last updated: December 13, 2022.
