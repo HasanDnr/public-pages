@@ -38,7 +38,7 @@ There should be approximately 3 parts ‘brown’ or ‘dry’ stuff (e.g. sawdu
 
 ## 2) Airflow
 
-There should be sufficient airflow through the pile, and generally the more, the better. This can be achieved, for instance, by ensuring that there are small gaps between the panels of your Soil Maker Box, or by having one side made of chicken wire.
+There should be sufficient airflow through the pile, and generally the more, the better. This can be achieved, for instance, by using a container which allows air to flow, such as the options on our [DIY page](https://www.makesoil.org/diy).
 
 ## 3) Moisture
 
