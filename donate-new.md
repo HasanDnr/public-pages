@@ -9,9 +9,6 @@ MakeSoil is a 501(c)(3) Nonprofit that exists 100% for the public, planetary goo
 <stripe-available>
 
 ### Donate with Apple Pay
-
-This is the easiest way to donate.
-
 <stripe-payment/>
 </stripe-available>
 
