@@ -19,6 +19,15 @@ The Soil Maker Box, takes a fair amount of time, DIY skill and tools to build.
   </div>
 </div>
 
+<div className="lid-container" style="margin-top:2rem;display:flex;gap:1rem;">
+  <div>
+<a href="https://smile.amazon.com/Rubbermaid-Commercial-Products-FG264560GRAY-Heavy-Duty/dp/B005KD0V4C?th=1" target="_blank"><img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Grey%20Lid.jpeg" alt="Grey Trashcan Lid" height="200px" width="300px" style="max-width:none;" /></a>
+  </div>
+  <div>
+    This large lid is perfect for the Soil Maker Cylinder, as the size of the lid determines the size of the cylinder. Most hardware stores do not stock lids this large. <a href="https://smile.amazon.com/Rubbermaid-Commercial-Products-FG264560GRAY-Heavy-Duty/dp/B005KD0V4C?th=1" target="_blank">Please use this link to purchase</a> and choose MakeSoil as your charity of choice. Amazon will make a small donation to MakeSoil at no cost to you.
+  </div>
+</div>
+
 
 
 # Soil Maker Box
