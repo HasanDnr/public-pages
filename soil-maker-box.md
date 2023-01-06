@@ -12,10 +12,10 @@ The Soil Maker Box, takes a fair amount of time, DIY skill and tools to build.
 
 <div className="lid-container" style="margin-top:2rem;display:flex;gap:1rem;">
   <div>
-<a href="https://smile.amazon.com/gp/product/B00BMTR14Q/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=makesoil0f-20&creative=9325&linkCode=as2&creativeASIN=B00BMTR14Q&linkId=21bd2966b99ec59a6e54e34e04eca83f" target="_blank"><img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Green_Lid.jpg" alt="Green Trashcan Lid" height="200px" width="200px" style="max-width:none;" /></a>
+<a href="https://smile.amazon.com/Rubbermaid-Commercial-Products-FG264560GRAY-Heavy-Duty/dp/B005KD0V4C?th=1" target="_blank"><img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Grey%20Lid.jpeg" alt="Grey Trashcan Lid" height="200px" width="300px" style="max-width:none;" /></a>
   </div>
   <div>
-    This large, green lid is perfect for the Soil Maker Cylinder, as the size of the lid determines the size of the cylinder. Most hardware stores do not stock lids this large, nor lids that are green. <a href="https://smile.amazon.com/gp/product/B00BMTR14Q/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=makesoil0f-20&creative=9325&linkCode=as2&creativeASIN=B00BMTR14Q&linkId=21bd2966b99ec59a6e54e34e04eca83f" target="_blank">Please use this link to purchase</a> and choose MakeSoil as your charity of choice. Amazon will make a small donation to MakeSoil at no cost to you.
+    This large lid is perfect for the Soil Maker Cylinder, as the size of the lid determines the size of the cylinder. Most hardware stores do not stock lids this large. <a href="https://smile.amazon.com/Rubbermaid-Commercial-Products-FG264560GRAY-Heavy-Duty/dp/B005KD0V4C?th=1" target="_blank">Please use this link to purchase</a> and choose MakeSoil as your charity of choice. Amazon will make a small donation to MakeSoil at no cost to you.
   </div>
 </div>
 
