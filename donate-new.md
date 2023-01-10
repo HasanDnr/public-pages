@@ -4,7 +4,7 @@ MakeSoil is a 501(c)(3) Nonprofit that exists 100% for the public, planetary goo
 <stripe>
 <stripe-loading>
 
-### Checking donation options, please wait...
+### Loading donation options...
 </stripe-loading>
 <stripe-available>
 
