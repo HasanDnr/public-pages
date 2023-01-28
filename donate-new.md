@@ -77,8 +77,8 @@ United States
 <details>
 <summary>Credit Card, PayPal, Or Bank Transfer</summary>
 
-<div style="text-align: center;margin-top: 2rem;">
-  <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/makesoil" height="800px" width="100%" style="max-width:425px;" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
+<div style="text-align:center;margin-top:2rem;padding-top:2rem;">
+  <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/makesoil" height="900px" width="100%" style="max-width:425px;" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
   <br />
 </div>
 </details>
