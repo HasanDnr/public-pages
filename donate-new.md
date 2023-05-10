@@ -27,7 +27,7 @@ United States
 
 ### Credit Card, PayPal, Or Bank Transfer
 
-<div style="text-align:center;margin-top:2rem;padding-top:2rem;">
+<div style="margin-top:2rem;padding-top:2rem;">
   <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe src="https://donorbox.org/embed/makesoil" height="900px" width="100%" style="max-width:425px;" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
   <br />
 </div>
@@ -47,9 +47,11 @@ United States
 
 ### Donor Advised Funds
 
+<div>
 <iframe src="/dafdirect.html" style="height: 313px; width: 300px;" frameborder="0" ></iframe>
-
-<div style="text-align: center;">Use <a href="https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings=ODI0NzY5MTc3XzIxMTFfY2IzNWZhZmYtZjk5MC00ZTdkLTg5YzMtZDIzMjRjNGQ0ZWU0&designatedText=TWFrZVNvaWw=&amountValue=" target="_blank">DAF Direct</a> to easily donate to MakeSoil through Fidelity Charitable, Schwab Charitable, and BNY Mellon.</div>
+</div>
+    
+<div>Use <a href="https://www.dafdirect.org/DAFDirect/daflink?_dafdirect_settings=ODI0NzY5MTc3XzIxMTFfY2IzNWZhZmYtZjk5MC00ZTdkLTg5YzMtZDIzMjRjNGQ0ZWU0&designatedText=TWFrZVNvaWw=&amountValue=" target="_blank">DAF Direct</a> to easily donate to MakeSoil through Fidelity Charitable, Schwab Charitable, and BNY Mellon.</div>
 
 ### Bank Wire
 
