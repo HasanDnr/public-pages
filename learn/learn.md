@@ -12,6 +12,8 @@ A soil site is a place where people come together to turn their food scraps into
 
 MakeSoil then works to match nearby neighbors to those soil sites, making it safe and easy for all to participate. Once neighbors join and begin bringing their scraps, we call them a Soil Supporter.
 
+Some soil site photos courtesy of [Lauren Turk](https://www.ferazero.com/).
+
 # How should I store my food scraps?
 
 In most cases you can store them in any container right on your counter-top. In that case it's best to not seal the container but to cover it with cloth or otherwise maintain some airflow. You can always keep your container in the refrigerator for many days, or indefinitely in the freezer, until you're ready to visit your soil site.
