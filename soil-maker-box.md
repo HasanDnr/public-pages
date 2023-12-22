@@ -4,7 +4,7 @@ If you want to build something easy to get started quickly, we suggest the Soil 
 
 The Soil Maker Box, takes a fair amount of time, DIY skill and tools to build.
 
-# Soil Maker Cylinder
+# MakeSoil Cylinder
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
 <iframe style="left:0;top:0;height:100%;width:100%;position:absolute;" width="560" height="315" src="https://www.youtube.com/embed/0iw7Qjg0r6M?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,7 +21,7 @@ The Soil Maker Box, takes a fair amount of time, DIY skill and tools to build.
 
 
 
-# Soil Maker Box
+# MakeSoil Box
 
 We designed our own Soil Maker Box and  made the design freely-available (see links below).
 
@@ -38,7 +38,7 @@ Build it yourself, have someone build it for you, or if you're a woodworker cons
 # Get the Soil Maker Box design!
 <ul>
   <li><a href="https://docs.google.com/document/d/1o8ayV6HfW81whocVO45VTXVj04JhL7x7xU_PqTRg0is/edit?usp=sharing" target="_blank">Google Doc Guide</a></li>
-  <li><a href="https://drive.google.com/file/d/1NEDJWqcxMc8psivktfcUP07oiHzmJJEy/view?usp=sharing" target="_blank">PDF Guide</a></li>
+  <li><a href="https://drive.google.com/file/d/1_h8aL8tHeTcoJb53zwFLGfocAKxzue8J/view?usp=sharing" target="_blank">PDF Guide</a></li>
 </ul>
 
 ![Soil Maker Box CAD image](https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/ms-soil-maker-box.png)
