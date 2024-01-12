@@ -1,9 +1,3 @@
-# Introduction
-
-If you want to build something easy to get started quickly, we suggest the Soil Maker Cylinder.
-
-The Soil Maker Box, takes a fair amount of time, DIY skill and tools to build.
-
 # MakeSoil Cylinder
 
 <div style="overflow:hidden;padding-bottom:56.25%;position:relative;height:0;">
@@ -12,10 +6,7 @@ The Soil Maker Box, takes a fair amount of time, DIY skill and tools to build.
 
 <div className="lid-container" style="margin-top:2rem;display:flex;gap:1rem;">
   <div>
-<a href="https://amazon.com/Rubbermaid-Commercial-Products-FG264560GRAY-Heavy-Duty/dp/B005KD0V4C?th=1" target="_blank"><img src="https://raw.githubusercontent.com/MakeSoil/public-pages/master/images/Grey%20Lid.jpeg" alt="Grey Trashcan Lid" height="200px" width="300px" style="max-width:none;" /></a>
-  </div>
-  <div>
-    This large lid is perfect for the Soil Maker Cylinder, as the size of the lid determines the size of the cylinder. Most hardware stores do not stock lids this large. <a href="https://amazon.com/Rubbermaid-Commercial-Products-FG264560GRAY-Heavy-Duty/dp/B005KD0V4C?th=1" target="_blank">Please use this link to purchase</a>.
+    The "Cylinder" is the most minimalist, easy-build bin we can think of. It's literally just a roll of wire mesh (a.k.a hardware cloth) with a lid to keep out animals and rain. Here's a <a href="https://amazon.com/Rubbermaid-Commercial-Products-FG264560GRAY-Heavy-Duty/dp/B005KD0V4C?th=1" target="_blank"> link to a lid</a> that's larger than what's sold in most hardware stores (go for the 44 or 55 gallon size as the size of the lid determines the size of the cylinder). As for the wire mesh, the kind commonly sold at hardware stores is a galvanized type that often contains lead. Consider using lead-free stainless steel hardware cloth instead. It's more expensive, but should also last longer.
   </div>
 </div>
 
